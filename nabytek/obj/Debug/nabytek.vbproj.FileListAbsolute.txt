@@ -1,0 +1,11 @@
+C:\Users\kolecko\Desktop\nabytek\nabytek\nabytek\obj\Debug\nabytek.vbprojAssemblyReference.cache
+C:\Users\kolecko\Desktop\nabytek\nabytek\nabytek\obj\Debug\nabytek.Resources.resources
+C:\Users\kolecko\Desktop\nabytek\nabytek\nabytek\obj\Debug\nabytek.vbproj.GenerateResource.cache
+C:\Users\kolecko\Desktop\nabytek\nabytek\nabytek\nabytek.exe.config
+C:\Users\kolecko\Desktop\nabytek\nabytek\nabytek\obj\Debug\nabytek.exe
+C:\Users\kolecko\Desktop\nabytek\nabytek\nabytek\obj\Debug\nabytek.xml
+C:\Users\kolecko\Desktop\nabytek\nabytek\nabytek\obj\Debug\nabytek.pdb
+C:\Users\kolecko\Desktop\nabytek\nabytek\nabytek\nabytek.exe
+C:\Users\kolecko\Desktop\nabytek\nabytek\nabytek\nabytek.pdb
+C:\Users\kolecko\Desktop\nabytek\nabytek\nabytek\nabytek.xml
+C:\Users\kolecko\Desktop\nabytek\nabytek\nabytek\obj\Debug\nabytek.btHlavni.resources
